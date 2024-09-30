@@ -1,5 +1,3 @@
-# MemoStack-Notes-keeping-app
-
 # MemoStack - A Simple Notes Application
 
 MemoStack is a minimalist, intuitive note-taking application built with **React**, **Node.js**, and **Express**. Designed to mimic the functionality of the iOS Notes app, MemoStack allows users to easily create, manage, and delete notes. It offers a clean interface with a focus on simplicity and productivity, making it easy to capture thoughts, ideas, and to-do lists.
